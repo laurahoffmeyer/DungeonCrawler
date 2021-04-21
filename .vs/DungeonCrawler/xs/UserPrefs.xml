@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CCAD44B3-8DAD-426A-9441-627F4587BA68}|Default">
+  <MonoDevelop.Ide.ItemProperties.DungeonCrawler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DungeonCrawler/Program.cs">
+    <Files>
+      <File FileName="DungeonCrawler/Program.cs" Line="74" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DungeonCrawler" expanded="True">
+            <Node name="DungeonCrawler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

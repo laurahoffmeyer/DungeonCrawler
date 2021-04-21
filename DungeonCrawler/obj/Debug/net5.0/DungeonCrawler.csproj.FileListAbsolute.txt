@@ -1,0 +1,30 @@
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.deps.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.runtimeconfig.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.runtimeconfig.dev.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/ref/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.pdb
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.csprojAssemblyReference.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.AssemblyInfoInputs.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.AssemblyInfo.cs
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.csproj.CoreCompileInputs.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/ref/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.pdb
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/dungeoncrawler /DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.genruntimeconfig.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.deps.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.runtimeconfig.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.runtimeconfig.dev.json
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/ref/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/bin/Debug/net5.0/DungeonCrawler.pdb
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.csprojAssemblyReference.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.AssemblyInfoInputs.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.AssemblyInfo.cs
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.csproj.CoreCompileInputs.cache
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/ref/DungeonCrawler.dll
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.pdb
+/Users/laurahoffmeyer/Documents/Projects/BreakingITDown/DungeonCrawler/DungeonCrawler/obj/Debug/net5.0/DungeonCrawler.genruntimeconfig.cache
